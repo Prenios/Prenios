@@ -4,8 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Prenios/Prenios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![unknown](https://user-images.githubusercontent.com/90971328/133890820-38ad9936-108a-41a7-a114-d5a6ed0ddd16.png)
+![1_l4xICbIIYlz1OTymWCoUTw](https://user-images.githubusercontent.com/90971328/133890873-3e368593-d6b3-4a2e-9214-0a43b2d6a2f2.jpeg)
