@@ -3,9 +3,8 @@
 
 
 
-**✔️The languages I learn :**
+**🛠️I am learning Python 3.10**
 
--Python
 
 
 
