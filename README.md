@@ -1,9 +1,9 @@
-👋 Hi, I’m @Prenios, I am a 15 yo boy and I like coding 
+👋 Hi, I’m @Prenios, I am a 16 yo boy and I like coding 
 
 
 
 
-**🛠️I am learning Python 3.10**
+**🛠️I am learning Python 3**
 
 
 
@@ -11,6 +11,6 @@
 
 **💭Contacts :**
 
-**-Discord :** Jojo#9625
+**-Discord :** Kronos#4321
 
-**-Mail :** projojolkr@gmail.com
+**-Mail :** aboulkerjoseph@gmail.com
