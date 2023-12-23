@@ -11,6 +11,6 @@
 
 **💭Contacts :**
 
-**-Discord :** Kronos#4321
+
 
 **-Mail :** aboulkerjoseph@gmail.com
